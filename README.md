@@ -4,3 +4,6 @@
 - 💞️ I’m looking to collaborate on my Discord Bot
 - 📫 How to reach me [Discord](http://discord.com/users/758518009093685359)
 <!-- Why do you want to see the raw readme file? -->
+
+![a meme](https://i.redd.it/gt6k6rd2myg41.png)
+<!-- linus os -->
